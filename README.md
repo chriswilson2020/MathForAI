@@ -7,3 +7,38 @@ The below table of contents will allow you to navigate through this course skipi
 
 ## 1. Algebra
 ### [Exponents](../main/Exponents.ipynb)
+### Radicals
+### Factorials
+### Summations
+### Scientific Notation
+
+## 2. Linear Algebra
+### Scalars
+### Vectors
+### Matrices
+### Tensors
+### Eigenvectors & Eigenvalues
+### Singular Value Decomposition
+### Principle Component Analysis (PCA)
+
+## 3. Calculus
+### Derivatives
+### Vector/Matrix Calculations
+### Gradient Algorithms
+
+## 4. Statistics and probability
+### Basic Statistics
+### Basic Rules of Probability
+### Random Variables
+### Bayes Theorem
+### Maximum Liklihood Estimate (MLE)
+### The Common Distributions (binomial, poisson, bernoulli, gaussian, exponential)
+
+## 5. Information Theory
+### Entropy
+### Cross-Entropy
+### Kullback Leibler Divergence
+### Viterbi Algorithm
+### Encoding-Decoding
+
+

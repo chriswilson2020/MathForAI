@@ -6,4 +6,4 @@ The aim of this repo is to give you the absolute minimum refresher that you need
 The below table of contents will allow you to navigate through this course skiping the bits you know and refreshing the bits you forgot.  Even learning new concepts where you need to. 
 
 ## 1. Algebra
-### [Exponents](../blob/master/Exponents.ipynb)
+### [Exponents](../master/Exponents.ipynb)
